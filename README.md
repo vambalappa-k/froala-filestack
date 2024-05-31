@@ -1,1 +1,2 @@
-# froala-filestack
+# froala-filestack-demo
+Froala filestack demo
