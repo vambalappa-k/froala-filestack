@@ -25,9 +25,6 @@ body.fr-fullscreen {
   height: 100%;
   width: 100%;
   position: fixed; }
-  body.fr-fullscreen .fs-transforms-container {
-    position: absolute;
-    z-index: 2147483660 !important; }
 
 .fr-box.fr-fullscreen {
   margin: 0 !important;
